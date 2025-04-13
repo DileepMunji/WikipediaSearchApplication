@@ -13,7 +13,7 @@ A simple and responsive web app to search Wikipedia articles by keyword. Built u
 - HTML5
 - CSS3 (with Google Fonts)
 - Bootstrap 4
-- JavaScript (ES6)
+- JavaScript 
 - API: [https://apis.ccbp.in/wiki-search](https://apis.ccbp.in/wiki-search)
 
 
